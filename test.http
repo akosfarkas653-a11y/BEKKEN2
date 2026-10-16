@@ -25,7 +25,7 @@ GET http://localhost:3000/api/taskusers
 ### Kapcsolótábla lekérdezése tokennel (Authorization Header)
 # Cseréld ki a tokent a login során kapott tokenre!
 GET http://localhost:3000/api/taskusers
-Authorization: Bearer a39d91db-0827-40f4-a827-29004afc55dc
+Authorization: Bearer e1c68273-09ad-4ae3-b236-903867eb5b13
 
 ### Kapcsolótábla lekérdezése tokennel query paraméterként
 # GET http://localhost:3000/api/taskusers?token=ILLUSD_IDE_A_TOKENT
